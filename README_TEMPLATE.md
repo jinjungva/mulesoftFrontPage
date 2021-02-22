@@ -39,7 +39,7 @@ Contains:
     - [Bandit](#bandit)
     - [Safety](#safety)
   - [Testing template changes](#testing-template-changes)
-  - [Frequent problems](#frequent-problems)
+  - [Frequent problems](#frequent-problems-section)
 
 ---
 
