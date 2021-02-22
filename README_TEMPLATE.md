@@ -470,7 +470,7 @@ When adding environment variables to any `<filename>-task-definition.json` file,
 
 ___
 
-## Frequent problems
+## Frequent problems Section
 
 __Problem__ : `E999 SyntaxError: invalid syntax` when running `flake8`
 
